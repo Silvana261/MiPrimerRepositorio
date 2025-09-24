@@ -13,4 +13,6 @@ public class Ponerengithub {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+    
+    int waua =10;
 }
